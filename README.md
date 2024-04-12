@@ -98,7 +98,7 @@
 
 
 <p align="center" style="margin-bottom: 10px;">
-    <a href="#"><img src="https://github-profile-trophy.vercel.app?username=dragon99k&column=7&theme=onedark&hide_border=true&include_all_commits=true&line_height=27"/></a>
+    <a href="#"><img src="https://github-profile-trophy.vercel.app?username=superstar99k&column=7&theme=onedark&hide_border=true&include_all_commits=true&line_height=27"/></a>
 </p>
 
 <div align="center">
@@ -119,7 +119,7 @@
 
 <!--h3 align="center">Available now and can start right now.</h3>
 
-<a href="#"><img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=dragon99k&theme=react-dark&hide_border=true" /></a>
+<a href="#"><img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=superstar99k&theme=react-dark&hide_border=true" /></a>
   
 <br/-->
    
