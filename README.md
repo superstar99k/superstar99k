@@ -11,7 +11,7 @@
   &nbsp;&nbsp;
 </p>
 
-<h3 align="center"><img src="https://github.com/dragon99k/dragon99k/blob/main/code.gif" height="20"/> Fullstack & Blockchain Development </h3>
+<h3 align="center"><img src="https://github.com/superstar99k/superstar99k/blob/main/code.gif" height="20"/> Fullstack & Blockchain Development </h3>
 
 <div align="center" style="witdh:100%"> 
   <table>
@@ -93,7 +93,7 @@
 </div>
 
 <div align="center">
-  <a href="#"><img src="https://github.com/dragon99k/dragon99k/blob/main/divider2.png" alt="divider"/></a>
+  <a href="#"><img src="https://github.com/superstar99k/superstar99k/blob/main/divider2.png" alt="divider"/></a>
 </div>
 
 
@@ -102,15 +102,15 @@
 </p>
 
 <div align="center">
-  <a href="#"><img src="https://github.com/dragon99k/dragon99k/blob/main/divider1.png" alt="divider"/></a>
+  <a href="#"><img src="https://github.com/superstar99k/superstar99k/blob/main/divider1.png" alt="divider"/></a>
 </div>
 
 <!--div align="center">
-  <a href="#"><img src="https://github.com/dragon99k/dragon99k/blob/main/portfolio.png" alt="Portfolio"/></a>
+  <a href="#"><img src="https://github.com/superstar99k/superstar99k/blob/main/portfolio.png" alt="Portfolio"/></a>
 </div-->
 
 <!--div align="center">
-  <a href="#"><img src="https://github.com/dragon99k/dragon99k/blob/main/divider1.png" alt="divider"/></a>
+  <a href="#"><img src="https://github.com/superstar99k/superstar99k/blob/main/divider1.png" alt="divider"/></a>
 </div-->
 
 <!--div align="center">
@@ -124,13 +124,13 @@
 <br/-->
    
 <p align = "center">
-  <!--a href="#"><img src = "https://github-readme-stats.vercel.app/api?username=dragon99k&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27"></a>
-  <a href="#"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dragon99k&hide=PHP,html,c&theme=tokyonight&hide_border=true&line_height=27"></a>
+  <!--a href="#"><img src = "https://github-readme-stats.vercel.app/api?username=superstar99k&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27"></a>
+  <a href="#"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=superstar99k&hide=PHP,html,c&theme=tokyonight&hide_border=true&line_height=27"></a>
   <br><br-->
-  <a href="#"><img src = "https://github-readme-streak-stats.herokuapp.com?user=dragon99k&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27"></a>
+  <a href="#"><img src = "https://github-readme-streak-stats.herokuapp.com?user=superstar99k&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27"></a>
 </p>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{dragon99k}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{superstar99k}/count.svg" /></p> 
 </div>
